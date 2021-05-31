@@ -153,6 +153,9 @@ http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/?utm_source=tuicool&utm_me
 工控漏洞挖掘方法之固件逆向分析
 https://paper.seebug.org/613/?utm_source=tuicool&utm
 
+UWP逆向
+http://showlinkroom.me/2017/05/31/UWP%E9%80%86%E5%90%91%E5%88%9D%E6%8E%A5%E8%A7%A6/
+
 Lynda - Learning Android Malware Analysis https://mega.nz/folder/hg0xwJAD xdcRDTIbkPE1uRwqVwbZ1A 
 
 https://atic-tw.blogspot.com/2014/04/sqlmap-sql-injection.html?m=1
@@ -239,8 +242,14 @@ https://www.facebook.com/109516419136687/posts/3580289552059339/
 Duplicate path attack
 https://m.book118.com/html/2020/0421/7021063063002131.shtm
 
+Windows Process Injection - Process Hollowing
+https://www.winitor.com/pdf/Windows-Process-Hollowing.pdf
+
 资源合集
 https://github.com/firmianay/security-paper
 
 sectoolset -- Github关于安全工具集合
 https://github.com/yialexlee/sectoolset
+
+CYBERSEC 2021
+https://drive.google.com/drive/folders/1WlizXL11XvrKgQxGkfzC9ABxEYbh-_ME
