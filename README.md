@@ -1,2 +1,233 @@
 # CTF-Cyber-Security-Source
 CTF/Cyber Security learning source from beginner to neutral level
+
+#Source :
+
+CTF入门介绍和笔记
+
+https://mega.nz/file/el8BAIwA#uukC6wUHcXoN1NY-QFklC_PvuEh6bXE9TWWPfyskzGk
+
+https://www.cnblogs.com/ECJTUACM-873284962/p/6691817.html
+
+https://www.jianshu.com/p/dbf1ae90e591
+
+https://marlous.github.io/2018/12/09/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E3%80%81CTF%20%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E7%AC%94%E8%AE%B0%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89
+
+https://mega.nz/file/hZdAXI4Q#tIGV7mqnxvnTsLFEm0xDxGLKgM5ZwOMuPmVzoICw5jU
+
+https://blog.csdn.net/wang010366/article/details/52562436
+
+
+资安/CTF基础–中阶笔记/文章/电子书/资源
+
+https://websec.readthedocs.io/zh/latest/
+
+https://zhuanlan.zhihu.com/p/100280973
+
+https://ffffffff0x.gitbook.io/1earn/1earn/an-quan/bi-ji/crypto/crypto#rsa
+
+https://www.bookstack.cn/read/CTF-All-In-One/SUMMARY.md
+
+https://ctf-wiki.github.io/ctf-wiki
+
+https://www.freebuf.com/articles/web/116437.html
+
+https://diabolo94.github.io/
+
+https://mega.nz/folder/HGg2TCTA#CjyPNP3bktKV9w4_g2xUDg/folder/bK5E0SbC
+
+https://mega.nz/file/cfRiBYAC#kA0pU17xEmmkOBUAnNewFMhn9yVym9t4v4IhJDVGYtA
+
+https://mega.nz/folder/h6RFQCZb#L3K86i4-qbrpsQ5Wg4rAZw
+
+https://gotyour.pw/resources.html
+
+https://mega.nz/folder/KE8wVSCL#avUDatFAEbKc17peHRCR9Q
+
+http://www.securitytube.net
+
+https://paper.seebug.org
+
+https://aaaddr.wordpress.com/2015/03/01/asmidac%e7%88%86%e7%a0%b4%e4%b9%9f%e8%83%bd%e5%be%88%e5%84%aa%e9%9b%85%ef%bc%81%e7%b4%94%e9%9d%9c%e6%85%8b%e7%88%86%e7%a0%b4%e6%96%87%e4%bb%b6%e9%97%9c%e9%8d%b5%e9%bb%9e%e7%b4%94%e9%9d%9c/
+
+https://mega.nz/file/MG5gjQAT#30LHlRFRjH9EXNnBWxgGikvjDDqUBzJ40yaY9vC2wOk
+
+https://mega.nz/file/MP5hyZCS#0TWPFLhHVeRQJ1uxpA0mopkwf5dFCrc3h9i9Hu3O8HI
+
+https://mega.nz/folder/f5Q1HQSK#Ua-rcCr90B_ivoKuvTVLjw
+
+https://mega.nz/folder/3doijQYY#bPjhyySdBvAOHXF0UKByzA
+
+https://github.com/vitalysim/Awesome-Hacking-Resources
+
+https://mega.nz/folder/wF4FRKjC#8wpIK6_phFF46LR_TSheCg
+
+https://github.com/riusksk/SecConArchive/tree/master/OffensiveCon_2020
+
+https://drive.google.com/drive/u/0/mobile/folders/1ztz_woWpkd4I6gq3-cFCLd9eeBSo8eqv
+
+https://mega.nz/folder/l9MXSYoI#zXBSvykjca7FkCYH6Flcow
+
+https://medium.com/@ktecv2000
+
+https://mega.nz/folder/zxE0EKAI#Y2M-xAIlrTjnsMPEszC9_w
+
+https://download.itadmins.net/
+
+https://github.com/sergey-pronin/Awesome-Vulnerability-Research
+
+https://mega.nz/file/sdoBRLAT#McEQxiuMm9EW6J3be8VnjHpvLqxGGgCuColsBPTAUm4
+
+AWS 2020 eBooks
+https://drive.google.com/drive/u/0/folders/11QStJaL2R5PvFJcRXMKvi9YhvgdPqt4i
+
+AZURE 2020 eBooks
+https://drive.google.com/drive/u/0/folders/11QZMBun23OXSEjP31ifCi8uufyvGoCBR
+
+CCNA SECURITY eBooks
+https://drive.google.com/drive/u/0/folders/11RP3_dkkccXRZcnySylO-tBYGTGxmoFo
+
+CEH v10 eBooks
+https://drive.google.com/drive/u/0/folders/11b0nBhiRkl5V9DiCpyQIRPfARCxuzsGX
+
+CISA eBooks
+https://drive.google.com/drive/u/0/folders/11fK49R8XssLkmo5n8tg0DMGNjr1YnkvK
+
+CISM eBooks
+https://drive.google.com/drive/u/0/folders/12-qOlOL9Y3RDimlfvzwEnpgRm6bD3bc2
+
+Machine Learning eBooks
+https://drive.google.com/drive/u/0/folders/12BzDpBj8ynnllP8u5X9oZ9illFqx1VIw
+
+Linux Academy By white Hats
+https://mega.nz/folder/3dkjkJSa#BLyY2ufMT25ng2-bPhw7Tw
+
+SOC Analyst Cyber Security Intrusion Training from scratch
+https://mega.nz/folder/ExV3mITb#7eCbqf1Fzrf6x5TyVea9Hw/folder/Rw9lRYxB
+
+MASTER NETWORKS & NETWORK SCANNING
+https://drive.google.com/drive/folders/1oq2bilonOJ3hT5T3IcXfYq-hKJkqZZTO
+
+Nmap SCANNING CYBER SECURITY COURSE
+https://drive.google.com/drive/folders/15rFSO_mBlNub1gqWgdgRHC19AytqP7Ch
+
+ADVANCED BUG BOUNTY
+https://drive.google.com/drive/folders/14zlqgin6rUfr6jQRBCLbbP8P8Vdypz7x
+
+Cyber Security Incident Handling and Response
+https://drive.google.com/drive/folders/1Kf7iAKs-sbb7eRI7zs2VexfwEyLwPdAv
+
+Utube基础播放列表
+https://www.youtube.com/playlist?list=PL9ooVrP1hQOGPQVeapGsJCktzIO4DtI4_
+
+https://www.youtube.com/playlist?list=PLmAuaUS7wSOMUeLR_y238QTaCDcYnKOO8
+
+https://www.youtube.com/playlist?list=PLwth-Pg_VQCiTMLtm-2HZwm9iqU1E05Bc
+
+https://www.youtube.com/playlist?list=PLwDQt7s1o9J6vKkkYfcCqBCs0d4gZ3yWB
+
+杂项入门
+https://felixzhang00.github.io/archives
+
+Pwn入门–基础
+https://mks.tw/2968/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8-%E5%BE%9E%E6%AF%AB%E7%84%A1%E5%9F%BA%E7%A4%8E%E9%96%8B%E5%A7%8B-pwn-%E6%A6%82%E5%BF%B5
+
+缓冲区溢出入门
+https://medium.com/@ktecv2000/%E7%B7%A9%E8%A1%9D%E5%8D%80%E6%BA%A2%E4%BD%8D%E6%94%BB%E6%93%8A%E4%B9%8B%E4%B8%80-buffer-overflow-83516aa80240
+
+https://medium.com/@ktecv2000/%E7%B7%A9%E8%A1%9D%E5%8D%80%E6%BA%A2%E4%BD%8D%E6%94%BB%E6%93%8A%E4%B9%8B%E4%BA%8C-buffer-overflow-b0a33d43ba1d
+
+https://medium.com/@ktecv2000/%E7%B7%A9%E8%A1%9D%E5%8D%80%E6%BA%A2%E4%BD%8D%E6%94%BB%E6%93%8A%E4%B9%8B%E4%B8%89-buffer-overflow-123d6ae7236e
+
+漏洞利用入门
+https://www.reddit.com/r/ExploitDev/comments/7zdrzc/exploit_development_learning_roadmap/?utm_medium=android_app&utm_source=share
+
+https://s.itho.me/cybersec/2020/slides/8250.pdf
+
+恶意软件分析
+https://zhuanlan.zhihu.com/p/127358086
+
+IoT固件逆向入门
+http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/?utm_source=tuicool&utm_medium=referral
+
+工控漏洞挖掘方法之固件逆向分析
+https://paper.seebug.org/613/?utm_source=tuicool&utm
+
+Lynda - Learning Android Malware Analysis https://mega.nz/folder/hg0xwJAD xdcRDTIbkPE1uRwqVwbZ1A 
+
+https://atic-tw.blogspot.com/2014/04/sqlmap-sql-injection.html?m=1
+
+https://kb.hitcon.org
+
+SOCIAL ENGINEERING COURSE
+https://mega.nz/folder/53IRGCAD#7u5piBk7ISxXE4asvplMzQ
+
+UDEMY CYBERSECURITY COLLECTION
+https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD
+
+My homie's course pensive miss him 
+https://mega.nz/folder/Ww1S3STC#PMsABmtKFEUlJaLvpCROCw
+
+CYBER SECURITY COURSES ALL PARTS 
+VOLUME 1
+https://mega.nz/folder/Dv41kKDY#9Wdzbm74LzvTSfG8QEnOHg
+VOLUME 2
+https://mega.nz/folder/vzIRhaLR#rjOgdeOHjZtKQvWfshYq7Q
+VOLUME 3
+https://mega.nz/folder/Hv4i1Ara#0TtNWmJkpw7cSX0RYICoMQ
+VOLUME 4
+https://mega.nz/folder/vjwilI6R#qct31tJHst_qqvXa7Z_tlA
+MASSIVE UDEMY COLLECTION
+https://mega.nz/folder/Sw8Qgarb#zqBiBYbth58oncNOHon8eg
+CHFI LABS & TOOLS
+https://mega.nz/folder/fBJzUYQY#yhs2nAV7DwCTL6xiil9OgQ
+THE COMPLETE 2020 WEB DEVELOPMENT BOOTCAMP
+https://mega.nz/folder/UIhThb7S#ek7K_2eU_ze9KqTfFhLzpw
+
+MEGA CHFI
+
+https://mega.nz/#P!AgDydhNRDhl1FkIsZZ5mTrxU_NDXzCVHIMa6jvaN8LZJLG0JCGh-fR_6sgq7qBIn5KcWnxv9Pm-GHIS77abn-LA-JSOAadG0EidaxpSLm9dSQqzWCtI3zQ
+Decrypt-key= nKi#BaG*Yu#DQ8
+
+Malware Reverse Engineering
+
+https://mega.nz/file/Mepk2KqL#HTHO7MxqTVynZ1mgQNlMaRhpDDa45cNbl28OttGz7V0
+
+OSCP Video
+https://mega.nz/folder/WKpFFAAS#PehFDoc1vFbd5jbexaNaMQ
+
+Cheat sheets, hacking, linux, networking ... and all
+https://mega.nz/folder/ipkzVbxY#YmRFYvZeKEHl9SHz-eRQsQ 
+
+https://mega.nz/folder/6GwzWDyI#S5mJK_DyXcUZrXrShqzqdA
+
+https://drive.google.com/file/d/15eks5tPQK9oM2Fv095H010u-Ch2EVBSu/view
+
+Ddos
+https://mega.nz/folder/a6YmCYxA#Y69Ofo-PFI2ZWoMNxivv2A
+
+CompTIA Network+ (N10-007)                                                        
+https://mega.nz/folder/jw1mUS5Q#YHqTwianUlQoYT5pxWW36g/folde
+
+ZDResearch - Advanced Web Hacking
+
+https://mega.nz/folder/8CAxmKJA#O47Xrjo_BadnC1nNm58cRQ
+
+ZDResearch - Reverse Engineering
+
+https://mega.nz/folder/UPglGYbQ#Hhs0lwMZcKkP7CS_fdLJ5w
+
+ZDResearch – Advanced SQL Injection
+ https://mega.nz/folder/NTR1DaRR#KvIUpSy79_TUzB4Dzsctag
+
+ZDResearch – Exploit Development
+ https://mega.nz/folder/5HxEXKbJ#YvXfUloJlzz2-WC2ngYy5A
+
+Metasploit app backdoor
+https://www.facebook.com/109516419136687/posts/3580289552059339/
+
+Duplicate path attack
+https://m.book118.com/html/2020/0421/7021063063002131.shtm
+
+资源合集
+https://github.com/firmianay/security-paper
