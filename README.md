@@ -78,57 +78,71 @@ https://github.com/sergey-pronin/Awesome-Vulnerability-Research
 
 https://mega.nz/file/sdoBRLAT#McEQxiuMm9EW6J3be8VnjHpvLqxGGgCuColsBPTAUm4
 
+
 AWS 2020 eBooks
 
 https://drive.google.com/drive/u/0/folders/11QStJaL2R5PvFJcRXMKvi9YhvgdPqt4i
+
 
 AZURE 2020 eBooks
 
 https://drive.google.com/drive/u/0/folders/11QZMBun23OXSEjP31ifCi8uufyvGoCBR
 
+
 CCNA SECURITY eBooks
 
 https://drive.google.com/drive/u/0/folders/11RP3_dkkccXRZcnySylO-tBYGTGxmoFo
+
 
 CEH v10 eBooks
 
 https://drive.google.com/drive/u/0/folders/11b0nBhiRkl5V9DiCpyQIRPfARCxuzsGX
 
+
 CISA eBooks
 
 https://drive.google.com/drive/u/0/folders/11fK49R8XssLkmo5n8tg0DMGNjr1YnkvK
+
 
 CISM eBooks
 
 https://drive.google.com/drive/u/0/folders/12-qOlOL9Y3RDimlfvzwEnpgRm6bD3bc2
 
+
 Machine Learning eBooks
 
 https://drive.google.com/drive/u/0/folders/12BzDpBj8ynnllP8u5X9oZ9illFqx1VIw
+
 
 Linux Academy By white Hats
 
 https://mega.nz/folder/3dkjkJSa#BLyY2ufMT25ng2-bPhw7Tw
 
+
 SOC Analyst Cyber Security Intrusion Training from scratch
 
 https://mega.nz/folder/ExV3mITb#7eCbqf1Fzrf6x5TyVea9Hw/folder/Rw9lRYxB
+
 
 MASTER NETWORKS & NETWORK SCANNING
 
 https://drive.google.com/drive/folders/1oq2bilonOJ3hT5T3IcXfYq-hKJkqZZTO
 
+
 Nmap SCANNING CYBER SECURITY COURSE
 
 https://drive.google.com/drive/folders/15rFSO_mBlNub1gqWgdgRHC19AytqP7Ch
+
 
 ADVANCED BUG BOUNTY
 
 https://drive.google.com/drive/folders/14zlqgin6rUfr6jQRBCLbbP8P8Vdypz7x
 
+
 Cyber Security Incident Handling and Response
 
 https://drive.google.com/drive/folders/1Kf7iAKs-sbb7eRI7zs2VexfwEyLwPdAv
+
 
 Utube基础播放列表
 
@@ -140,13 +154,16 @@ https://www.youtube.com/playlist?list=PLwth-Pg_VQCiTMLtm-2HZwm9iqU1E05Bc
 
 https://www.youtube.com/playlist?list=PLwDQt7s1o9J6vKkkYfcCqBCs0d4gZ3yWB
 
+
 杂项入门
 
 https://felixzhang00.github.io/archives
 
+
 Pwn入门–基础
 
 https://mks.tw/2968/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8-%E5%BE%9E%E6%AF%AB%E7%84%A1%E5%9F%BA%E7%A4%8E%E9%96%8B%E5%A7%8B-pwn-%E6%A6%82%E5%BF%B5
+
 
 缓冲区溢出入门
 
@@ -156,27 +173,33 @@ https://medium.com/@ktecv2000/%E7%B7%A9%E8%A1%9D%E5%8D%80%E6%BA%A2%E4%BD%8D%E6%9
 
 https://medium.com/@ktecv2000/%E7%B7%A9%E8%A1%9D%E5%8D%80%E6%BA%A2%E4%BD%8D%E6%94%BB%E6%93%8A%E4%B9%8B%E4%B8%89-buffer-overflow-123d6ae7236e
 
+
 漏洞利用入门
 
 https://www.reddit.com/r/ExploitDev/comments/7zdrzc/exploit_development_learning_roadmap/?utm_medium=android_app&utm_source=share
 
 https://s.itho.me/cybersec/2020/slides/8250.pdf
 
+
 恶意软件分析
 
 https://zhuanlan.zhihu.com/p/127358086
+
 
 IoT固件逆向入门
 
 http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/?utm_source=tuicool&utm_medium=referral
 
+
 工控漏洞挖掘方法之固件逆向分析
 
 https://paper.seebug.org/613/?utm_source=tuicool&utm
 
+
 UWP逆向
 
 http://showlinkroom.me/2017/05/31/UWP%E9%80%86%E5%90%91%E5%88%9D%E6%8E%A5%E8%A7%A6/
+
 
 Lynda - Learning Android Malware Analysis
 
@@ -186,17 +209,21 @@ https://atic-tw.blogspot.com/2014/04/sqlmap-sql-injection.html?m=1
 
 https://kb.hitcon.org
 
+
 SOCIAL ENGINEERING COURSE
 
 https://mega.nz/folder/53IRGCAD#7u5piBk7ISxXE4asvplMzQ
+
 
 UDEMY CYBERSECURITY COLLECTION
 
 https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD
 
+
 My homie's course pensive miss him
 
 https://mega.nz/folder/Ww1S3STC#PMsABmtKFEUlJaLvpCROCw
+
 
 CYBER SECURITY COURSES ALL PARTS 
 
@@ -216,30 +243,37 @@ VOLUME 4
 
 https://mega.nz/folder/vjwilI6R#qct31tJHst_qqvXa7Z_tlA
 
+
 MASSIVE UDEMY COLLECTION
 
 https://mega.nz/folder/Sw8Qgarb#zqBiBYbth58oncNOHon8eg
+
 
 CHFI LABS & TOOLS
 
 https://mega.nz/folder/fBJzUYQY#yhs2nAV7DwCTL6xiil9OgQ
 
+
 THE COMPLETE 2020 WEB DEVELOPMENT BOOTCAMP
 
 https://mega.nz/folder/UIhThb7S#ek7K_2eU_ze9KqTfFhLzpw
+
 
 MEGA CHFI
 
 https://mega.nz/#P!AgDydhNRDhl1FkIsZZ5mTrxU_NDXzCVHIMa6jvaN8LZJLG0JCGh-fR_6sgq7qBIn5KcWnxv9Pm-GHIS77abn-LA-JSOAadG0EidaxpSLm9dSQqzWCtI3zQ
 Decrypt-key= nKi#BaG*Yu#DQ8
 
+
 Malware Reverse Engineering
 
 https://mega.nz/file/Mepk2KqL#HTHO7MxqTVynZ1mgQNlMaRhpDDa45cNbl28OttGz7V0
 
+
 OSCP Video
 
 https://mega.nz/folder/WKpFFAAS#PehFDoc1vFbd5jbexaNaMQ
+
 
 Cheat sheets, hacking, linux, networking ... and all
 
@@ -249,54 +283,66 @@ https://mega.nz/folder/6GwzWDyI#S5mJK_DyXcUZrXrShqzqdA
 
 https://drive.google.com/file/d/15eks5tPQK9oM2Fv095H010u-Ch2EVBSu/view
 
+
 Ddos
 
 https://mega.nz/folder/a6YmCYxA#Y69Ofo-PFI2ZWoMNxivv2A
+
 
 CompTIA Network+ (N10-007)     
 
 https://mega.nz/folder/jw1mUS5Q#YHqTwianUlQoYT5pxWW36g/folde
 
+
 ZDResearch - Advanced Web Hacking
 
-
 https://mega.nz/folder/8CAxmKJA#O47Xrjo_BadnC1nNm58cRQ
+
 
 ZDResearch - Reverse Engineering
 
 https://mega.nz/folder/UPglGYbQ#Hhs0lwMZcKkP7CS_fdLJ5w
 
+
 ZDResearch – Advanced SQL Injection
 
  https://mega.nz/folder/NTR1DaRR#KvIUpSy79_TUzB4Dzsctag
+
 
 ZDResearch – Exploit Development
 
  https://mega.nz/folder/5HxEXKbJ#YvXfUloJlzz2-WC2ngYy5A
 
+
 Metasploit app backdoor
 
 https://www.facebook.com/109516419136687/posts/3580289552059339/
+
 
 Duplicate path attack
 
 https://m.book118.com/html/2020/0421/7021063063002131.shtm
 
+
 Windows Process Injection - Process Hollowing
 
 https://www.winitor.com/pdf/Windows-Process-Hollowing.pdf
+
 
 资源合集
 
 https://github.com/firmianay/security-paper
 
+
 sectoolset -- Github关于安全工具集合
 
 https://github.com/yialexlee/sectoolset
 
+
 CYBERSEC 2021
 
 https://drive.google.com/drive/folders/1WlizXL11XvrKgQxGkfzC9ABxEYbh-_ME
+
 
 CTF challange writeup
 
