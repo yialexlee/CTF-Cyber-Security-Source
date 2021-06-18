@@ -79,6 +79,25 @@ https://github.com/sergey-pronin/Awesome-Vulnerability-Research
 https://mega.nz/file/sdoBRLAT#McEQxiuMm9EW6J3be8VnjHpvLqxGGgCuColsBPTAUm4
 
 
+NMAP Basic:
+
+Part 1 NMAP advanced commands : 
+
+https://www.facebook.com/109516419136687/posts/3561223333965961/
+
+Part 2 NMAP CVE  detect : 
+
+https://www.facebook.com/109516419136687/posts/3561335117288116/
+
+Part 3 NMAP anonymous scan : 
+
+https://www.facebook.com/109516419136687/posts/3563599047061723/
+
+Part 4 NMAP for exploiting brutforcing and Ddos : 
+
+https://www.facebook.com/109516419136687/posts/3565016723586622/
+
+
 AWS 2020 eBooks
 
 https://drive.google.com/drive/u/0/folders/11QStJaL2R5PvFJcRXMKvi9YhvgdPqt4i
