@@ -163,6 +163,73 @@ Cyber Security Incident Handling and Response
 https://drive.google.com/drive/folders/1Kf7iAKs-sbb7eRI7zs2VexfwEyLwPdAv
 
 
+Penetration Tools Cheat Sheet
+
+https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+
+
+Pen Testing Bookmarks
+
+https://github.com/kurobeats/pentest-bookmarks/blob/master/BookmarksList.md
+
+
+OSCP Cheatsheets
+
+https://github.com/slyth11907/Cheatsheets
+
+
+CEH Cheatsheet
+
+https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20CEH%20Cheat%20Sheet%20Exercises.pdf
+
+
+Net Bios Scan Cheat Sheet
+
+https://highon.coffee/blog/nbtscan-cheat-sheet/
+
+
+Reverse Shell Cheat Sheet
+
+https://highon.coffee/blog/reverse-shell-cheat-sheet/
+
+
+NMap Cheat Sheet
+
+https://highon.coffee/blog/nmap-cheat-sheet/
+
+
+Linux Commands Cheat Sheet
+
+https://highon.coffee/blog/linux-commands-cheat-sheet/
+
+
+Security Hardening CentO 7
+
+https://highon.coffee/blog/security-harden-centos-7/
+
+
+MetaSploit Cheatsheet
+
+https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf
+
+
+Google Hacking Database:
+
+https://www.exploit-db.com/google-hacking-database/
+
+
+Windows Assembly Language Mega
+
+http://www.securitytube.net/groups?operation=view&groupId=6
+
+http://www.securitytube.net/groups?operation=view&groupId=5
+
+
+Metasploit Cheat Sheet
+
+https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf
+
+
 Utube基础播放列表
 
 https://www.youtube.com/playlist?list=PL9ooVrP1hQOGPQVeapGsJCktzIO4DtI4_
