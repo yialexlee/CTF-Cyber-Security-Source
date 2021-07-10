@@ -210,6 +210,21 @@ Security Hardening CentO 7
 https://highon.coffee/blog/security-harden-centos-7/
 
 
+SQL Injection to RCE
+
+https://pentestmag.com/sql-injection-to-rce/
+
+
+Ettercap and middle-attacks tutorial
+
+https://pentestmag.com/ettercap-tutorial-for-windows/
+
+
+Dagon- advanced hash cracking and manipulation system
+
+https://pentestmag.com/dagon-advanced-hash-cracking-manipulation-system/
+
+
 MetaSploit Cheatsheet
 
 https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf
