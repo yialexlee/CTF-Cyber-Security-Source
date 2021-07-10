@@ -442,6 +442,11 @@ sectoolset -- Github关于安全工具集合
 https://github.com/yialexlee/sectoolset
 
 
+滑動驗證碼Python破解
+
+https://blog.v123582.tw/2021/06/05/%E8%AE%93-Python-%E7%88%AC%E8%9F%B2%E4%B9%9F%E8%83%BD%E8%AE%80%E5%BE%97%E6%87%82%E3%80%8C%E6%BB%91%E5%8B%95%E9%A9%97%E8%AD%89%E7%A2%BC%E3%80%8D/
+
+
 CYBERSEC 2021
 
 https://drive.google.com/drive/folders/1WlizXL11XvrKgQxGkfzC9ABxEYbh-_ME
@@ -452,7 +457,11 @@ CTF challange writeup
 https://github.com/luisrodrigues154/Cyber-Security
 
 
-滑動驗證碼Python破解
+Awesome Penetration Testing ( collection of awesome penetration testing and offensive cybersecurity resources )
 
-https://blog.v123582.tw/2021/06/05/%E8%AE%93-Python-%E7%88%AC%E8%9F%B2%E4%B9%9F%E8%83%BD%E8%AE%80%E5%BE%97%E6%87%82%E3%80%8C%E6%BB%91%E5%8B%95%E9%A9%97%E8%AD%89%E7%A2%BC%E3%80%8D/
+https://github.com/enaqx/awesome-pentest
 
+
+Pentest-Tools
+
+https://github.com/S3cur3Th1sSh1t/Pentest-Tools
