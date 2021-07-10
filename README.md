@@ -465,3 +465,10 @@ https://github.com/enaqx/awesome-pentest
 Pentest-Tools
 
 https://github.com/S3cur3Th1sSh1t/Pentest-Tools
+
+
+All in one hacking tool
+
+https://github.com/Z4nzu/hackingtool
+
+
