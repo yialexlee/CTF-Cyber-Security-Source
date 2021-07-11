@@ -294,6 +294,11 @@ IoT固件逆向入门
 http://zeroyu.xyz/2019/08/15/How_to_start_IoT_Reverse/?utm_source=tuicool&utm_medium=referral
 
 
+安全思维导图集合
+
+https://github.com/SecWiki/sec-chart
+
+
 工控漏洞挖掘方法之固件逆向分析
 
 https://paper.seebug.org/613/?utm_source=tuicool&utm
