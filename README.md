@@ -17,6 +17,8 @@ https://mega.nz/file/hZdAXI4Q#tIGV7mqnxvnTsLFEm0xDxGLKgM5ZwOMuPmVzoICw5jU
 
 https://blog.csdn.net/wang010366/article/details/52562436
 
+https://drive.google.com/file/d/1JLhCOOlh-AF10RID1Q_KCafF6n-k2UfC/view?usp=sharing
+
 
 资安/CTF基础–中阶笔记/文章/电子书/资源
 
@@ -81,6 +83,11 @@ https://download.itadmins.net/
 https://github.com/sergey-pronin/Awesome-Vulnerability-Research
 
 https://mega.nz/file/sdoBRLAT#McEQxiuMm9EW6J3be8VnjHpvLqxGGgCuColsBPTAUm4
+
+
+Web Hacking 101
+
+https://drive.google.com/file/d/1Z1i81cF5H1wnKaraZSyU0Qvq0kCtaPG9/view?usp=sharing
 
 
 NMAP Basic:
@@ -462,6 +469,11 @@ https://drive.google.com/drive/folders/1WlizXL11XvrKgQxGkfzC9ABxEYbh-_ME
 CTF challange writeup
 
 https://github.com/luisrodrigues154/Cyber-Security
+
+
+Black Hat USA 2021
+
+https://drive.google.com/drive/folders/1JU1PuM0IXpZ413wIHDxU0SoiUCHha9I1?usp=sharing
 
 
 Awesome Penetration Testing ( collection of awesome penetration testing and offensive cybersecurity resources )
