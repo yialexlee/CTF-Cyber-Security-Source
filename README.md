@@ -50,6 +50,8 @@ http://www.securitytube.net
 
 https://paper.seebug.org
 
+https://medium.com/starbugs/what-are-encoding-encrypt-and-hashing-4b03d40e7b0c
+
 https://aaaddr.wordpress.com/2015/03/01/asmidac%e7%88%86%e7%a0%b4%e4%b9%9f%e8%83%bd%e5%be%88%e5%84%aa%e9%9b%85%ef%bc%81%e7%b4%94%e9%9d%9c%e6%85%8b%e7%88%86%e7%a0%b4%e6%96%87%e4%bb%b6%e9%97%9c%e9%8d%b5%e9%bb%9e%e7%b4%94%e9%9d%9c/
 
 https://mega.nz/file/MG5gjQAT#30LHlRFRjH9EXNnBWxgGikvjDDqUBzJ40yaY9vC2wOk
