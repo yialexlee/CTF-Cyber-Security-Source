@@ -471,6 +471,11 @@ CTF challange writeup
 https://github.com/luisrodrigues154/Cyber-Security
 
 
+OSCP
+
+http://arm.darksec.net/oscp.pdf
+
+
 Black Hat USA 2021
 
 https://drive.google.com/drive/folders/1JU1PuM0IXpZ413wIHDxU0SoiUCHha9I1?usp=sharing
