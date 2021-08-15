@@ -28,7 +28,7 @@ https://zhuanlan.zhihu.com/p/100280973
 
 https://infosecdecompress.com/posts/patches_study_resources_for_cybersecurity
 
-https://ffffffff0x.gitbook.io/1earn/1earn/an-quan/bi-ji/crypto/crypto#rsa
+https://wiki.ffffffff0x.com/1earn/security
 
 https://www.bookstack.cn/read/CTF-All-In-One/SUMMARY.md
 
