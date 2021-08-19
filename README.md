@@ -481,6 +481,11 @@ Black Hat USA 2021
 https://drive.google.com/drive/folders/1JU1PuM0IXpZ413wIHDxU0SoiUCHha9I1?usp=sharing
 
 
+OWASP MSTG
+
+https://github.com/OWASP/owasp-mstg
+
+
 Awesome Penetration Testing ( collection of awesome penetration testing and offensive cybersecurity resources )
 
 https://github.com/enaqx/awesome-pentest
