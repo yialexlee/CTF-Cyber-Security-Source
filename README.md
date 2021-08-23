@@ -84,6 +84,8 @@ https://github.com/sergey-pronin/Awesome-Vulnerability-Research
 
 https://mega.nz/file/sdoBRLAT#McEQxiuMm9EW6J3be8VnjHpvLqxGGgCuColsBPTAUm4
 
+https://honored-sousaphone-e1c.notion.site/Ethical-Hacking-d7b12ee8bd954df6a3bcc335f5de26b7
+
 
 Web Hacking 101
 
