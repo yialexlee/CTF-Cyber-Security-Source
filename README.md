@@ -488,6 +488,16 @@ OWASP MSTG
 https://github.com/OWASP/owasp-mstg
 
 
+Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)
+
+https://youtu.be/3Kq1MIfTWCE
+
+
+Ethical Hacking 101: Web App Penetration Testing - a full course for beginners
+
+https://youtu.be/2_lswM1S264
+
+
 Awesome Penetration Testing ( collection of awesome penetration testing and offensive cybersecurity resources )
 
 https://github.com/enaqx/awesome-pentest
