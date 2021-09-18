@@ -87,6 +87,11 @@ https://mega.nz/file/sdoBRLAT#McEQxiuMm9EW6J3be8VnjHpvLqxGGgCuColsBPTAUm4
 https://honored-sousaphone-e1c.notion.site/Ethical-Hacking-d7b12ee8bd954df6a3bcc335f5de26b7
 
 
+Linux Essentials for Ethical Hackers - Full InfoSec Course
+
+https://www.youtube.com/watch?v=1hvVcEhcbLM&list=PLzK1BC9VdP65iJNqhvAktM1Bd12s6LuM5&index=1
+
+
 Web Hacking 101
 
 https://drive.google.com/file/d/1Z1i81cF5H1wnKaraZSyU0Qvq0kCtaPG9/view?usp=sharing
@@ -446,6 +451,11 @@ https://m.book118.com/html/2020/0421/7021063063002131.shtm
 Windows Process Injection - Process Hollowing
 
 https://www.winitor.com/pdf/Windows-Process-Hollowing.pdf
+
+
+HITCON CMT 2019 - Fuzzing AOSP for Non-crash bugs
+
+https://www.youtube.com/watch?v=aVcwQLLqUw0&t=302s
 
 
 资源合集
