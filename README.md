@@ -92,6 +92,17 @@ Linux Essentials for Ethical Hackers - Full InfoSec Course
 https://www.youtube.com/watch?v=1hvVcEhcbLM&list=PLzK1BC9VdP65iJNqhvAktM1Bd12s6LuM5&index=1
 
 
+Pwn learning resources
+
+https://pwn.college/
+
+https://guyinatuxedo.github.io/
+
+https://github.com/bash-c/slides/tree/master/pwn_heap
+
+https://dayzerosec.com/blog/2021/02/02/getting-started.html
+
+
 Web Hacking 101
 
 https://drive.google.com/file/d/1Z1i81cF5H1wnKaraZSyU0Qvq0kCtaPG9/view?usp=sharing
