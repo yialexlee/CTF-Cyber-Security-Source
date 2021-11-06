@@ -87,6 +87,11 @@ https://mega.nz/file/sdoBRLAT#McEQxiuMm9EW6J3be8VnjHpvLqxGGgCuColsBPTAUm4
 https://honored-sousaphone-e1c.notion.site/Ethical-Hacking-d7b12ee8bd954df6a3bcc335f5de26b7
 
 
+CTF密码学总结
+
+https://www.cnblogs.com/gwind/p/8011248.html
+
+
 Linux Essentials for Ethical Hackers - Full InfoSec Course
 
 https://www.youtube.com/watch?v=1hvVcEhcbLM&list=PLzK1BC9VdP65iJNqhvAktM1Bd12s6LuM5&index=1
