@@ -524,6 +524,11 @@ Ethical Hacking 101: Web App Penetration Testing - a full course for beginners
 https://youtu.be/2_lswM1S264
 
 
+elearnsecurity - INE all courses 
+
+https://drive.google.com/drive/u/1/folders/14TvgvdckDq1SlVS6FfvupIky4RdNVF4f
+
+
 Awesome Penetration Testing ( collection of awesome penetration testing and offensive cybersecurity resources )
 
 https://github.com/enaqx/awesome-pentest
