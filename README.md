@@ -504,6 +504,11 @@ OSCP
 http://arm.darksec.net/oscp.pdf
 
 
+Cybersecurity ops with bash
+
+https://drive.google.com/file/d/137BDfEeajeRz6YSter3TInwa8XfT5c2c/edit
+
+
 Black Hat USA 2021
 
 https://drive.google.com/drive/folders/1JU1PuM0IXpZ413wIHDxU0SoiUCHha9I1?usp=sharing
