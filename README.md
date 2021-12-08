@@ -365,6 +365,11 @@ My homie's course pensive miss him
 https://mega.nz/folder/Ww1S3STC#PMsABmtKFEUlJaLvpCROCw
 
 
+Digital forensics lab
+
+https://github.com/frankwxu/digital-forensics-lab
+
+
 CYBER SECURITY COURSES ALL PARTS 
 
 VOLUME 1
