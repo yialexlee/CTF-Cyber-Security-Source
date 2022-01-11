@@ -360,6 +360,11 @@ UDEMY CYBERSECURITY COLLECTION
 https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD
 
 
+The Complete Ethical Hacking Course
+
+https://mega.nz/folder/ppQCVbgL#u8wcVDSceGNi3qr6WlSBjA
+
+
 My homie's course pensive miss him
 
 https://mega.nz/folder/Ww1S3STC#PMsABmtKFEUlJaLvpCROCw
