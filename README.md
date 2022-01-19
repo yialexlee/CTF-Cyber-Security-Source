@@ -529,6 +529,11 @@ OWASP MSTG
 https://github.com/OWASP/owasp-mstg
 
 
+OSINT Collection
+
+https://github.com/sinwindie/OSINT
+
+
 Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)
 
 https://youtu.be/3Kq1MIfTWCE
