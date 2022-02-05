@@ -137,6 +137,11 @@ Part 4 NMAP for exploiting brutforcing and Ddos :
 https://www.facebook.com/109516419136687/posts/3565016723586622/
 
 
+UDEMY CYBERSECURITY COURSES COLLECTION - 2020/21
+
+https://drive.google.com/drive/u/0/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD
+
+
 AWS 2020 eBooks
 
 https://drive.google.com/drive/u/0/folders/11QStJaL2R5PvFJcRXMKvi9YhvgdPqt4i
