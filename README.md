@@ -564,6 +564,16 @@ Awesome Penetration Testing ( collection of awesome penetration testing and offe
 https://github.com/enaqx/awesome-pentest
 
 
+OWASP Cheat Sheet Series
+
+https://cheatsheetseries.owasp.org/
+
+
+GTFOBins
+
+https://gtfobins.github.io/
+
+
 Pentest-Tools
 
 https://github.com/S3cur3Th1sSh1t/Pentest-Tools
