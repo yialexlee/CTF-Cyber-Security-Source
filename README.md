@@ -564,6 +564,11 @@ Awesome Penetration Testing ( collection of awesome penetration testing and offe
 https://github.com/enaqx/awesome-pentest
 
 
+OSCP/PWK - PEN-200 PDF lessons
+
+https://mega.nz/folder/jLIQVDKS#aNqPvLLUylhFWuFp09xvFg
+
+
 OWASP Cheat Sheet Series
 
 https://cheatsheetseries.owasp.org/
