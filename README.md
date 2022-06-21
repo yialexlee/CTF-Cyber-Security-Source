@@ -569,6 +569,11 @@ OSCP/PWK - PEN-200 PDF lessons
 https://mega.nz/folder/jLIQVDKS#aNqPvLLUylhFWuFp09xvFg
 
 
+OSCP Tutorial Video
+
+https://pwk.hide01.ir/
+
+
 OWASP Cheat Sheet Series
 
 https://cheatsheetseries.owasp.org/
