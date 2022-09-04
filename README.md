@@ -607,3 +607,13 @@ https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
 Library of ethical hacking, pentesting and programming courses
 
 https://anonworld.us/
+
+
+BLACKHAT USA 2022 Slide
+
+https://drive.google.com/drive/folders/1KHx2rKUEdb53flGUN0mFHRdSdB5PUT4B
+
+
+Defcon 30 Slide
+
+https://drive.google.com/drive/u/0/folders/1-pLHmmyU0GvonWAtL1os2NTmkJLcM4UT
