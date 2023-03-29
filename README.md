@@ -617,3 +617,8 @@ https://drive.google.com/drive/folders/1KHx2rKUEdb53flGUN0mFHRdSdB5PUT4B
 Defcon 30 Slide
 
 https://drive.google.com/drive/u/0/folders/1-pLHmmyU0GvonWAtL1os2NTmkJLcM4UT
+
+
+Cybersecurity Courses
+
+https://mega.nz/folder/QtUBkSyI#pWhNWowJhOTamWY0PuODLA
