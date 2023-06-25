@@ -496,6 +496,12 @@ https://www.youtube.com/watch?v=aVcwQLLqUw0&t=302s
 
 资源合集
 
+
+PayloadsAllTheThings
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master
+
+
 https://github.com/firmianay/security-paper
 
 
