@@ -630,3 +630,18 @@ https://drive.google.com/drive/u/0/folders/1-pLHmmyU0GvonWAtL1os2NTmkJLcM4UT
 Cybersecurity Courses
 
 https://mega.nz/folder/QtUBkSyI#pWhNWowJhOTamWY0PuODLA
+
+
+OSCE3 Complete Guide
+
+https://github.com/CyberSecurityUP/OSCE3-Complete-Guide/
+
+
+Blackhoat Video Series
+
+https://mega.nz/folder/k5MDXBQD#16OffIi1DCOqZXEJaabdlw
+
+
+Hacking Related Tutorial Collecction
+
+https://hide01.ir/
