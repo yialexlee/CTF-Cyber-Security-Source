@@ -645,3 +645,8 @@ https://mega.nz/folder/k5MDXBQD#16OffIi1DCOqZXEJaabdlw
 Hacking Related Tutorial Collecction
 
 https://hide01.ir/
+
+
+Blackhat Asia 2023,Offensivecon 2023,Blackhat USA 2023 Slide
+
+https://github.com/onhexgroup/Conferences/tree/main
