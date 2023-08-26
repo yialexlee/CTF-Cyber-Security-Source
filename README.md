@@ -650,3 +650,8 @@ https://hide01.ir/
 Blackhat Asia 2023,Offensivecon 2023,Blackhat USA 2023 Slide
 
 https://github.com/onhexgroup/Conferences/tree/main
+
+
+DEFCON 31(2023) Slides
+
+https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/
