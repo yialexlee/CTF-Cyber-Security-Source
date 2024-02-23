@@ -670,3 +670,8 @@ https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_We
 Pentest report templates
 
 https://pentestreports.com/templates/
+
+
+OSCP-Preparation-Material
+
+https://github.com/RihaMaheshwari/OSCP-Preparation-Material
