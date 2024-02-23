@@ -655,3 +655,18 @@ https://github.com/onhexgroup/Conferences/tree/main
 DEFCON 31(2023) Slides
 
 https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/
+
+
+PTES Technical Guidelines
+
+http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines
+
+
+OWASP Web Application Penetration Checklist 
+
+https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Web_Application_Penetration_Checklist_v1_1.pdf
+
+
+Pentest report templates
+
+https://pentestreports.com/templates/
