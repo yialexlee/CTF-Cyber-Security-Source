@@ -675,3 +675,8 @@ https://pentestreports.com/templates/
 OSCP-Preparation-Material
 
 https://github.com/RihaMaheshwari/OSCP-Preparation-Material
+
+
+XSS Payload
+
+https://www.ddosi.org/xss.txt
