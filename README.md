@@ -680,3 +680,8 @@ https://github.com/RihaMaheshwari/OSCP-Preparation-Material
 XSS Payload
 
 https://www.ddosi.org/xss.txt
+
+
+Pentest Tools Summary
+
+https://github.com/djytmdj/Tool_Summary
