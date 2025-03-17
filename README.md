@@ -685,3 +685,8 @@ https://www.ddosi.org/xss.txt
 Pentest Tools Summary
 
 https://github.com/djytmdj/Tool_Summary
+
+
+HW Red & Blue Team Tools and PDF
+
+https://github.com/Mr-xn/RedTeam_BlueTeam_HW
