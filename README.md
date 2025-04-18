@@ -690,3 +690,9 @@ https://github.com/djytmdj/Tool_Summary
 HW Red & Blue Team Tools and PDF
 
 https://github.com/Mr-xn/RedTeam_BlueTeam_HW
+
+
+Cobalt Strike Cheat Sheet
+
+https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet?tab=readme-ov-file#exflitration
+
